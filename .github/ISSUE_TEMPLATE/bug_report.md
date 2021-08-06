@@ -1,6 +1,6 @@
 ---
 name: Issue
-about: Create a report to help us track issues within the main-game (or) testing lobbies.
+about: Report any issues/bugs in the game.
 title: ''
 labels: ''
 assignees: 'Koishi'
